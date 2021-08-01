@@ -27,7 +27,7 @@ Thanks for visiting my GitHub profile, it's great to see you! 😀
 <img src="https://img.shields.io/badge/achaud12@binghamton.edu-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="achaud12@binghamton.edu">   <a  href="https://www.instagram.com/aadi.ctive/"><img src="https://img.shields.io/badge/@aadi.ctive_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/aadi-ctive/"><img src="https://img.shields.io/badge/Aditya Chaudhari-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### GitHub Stats:
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadicitve)](https://github.com/aadictive/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadictive)](https://github.com/aadictive/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/aadi-ctive/
 [twitter]: https://twitter.com/aadi_ctive/
