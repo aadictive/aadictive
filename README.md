@@ -3,9 +3,10 @@
 Thanks for visiting my GitHub profile, it's great to see you! 😀
 
 ### About Me?
-- 👨🏻‍🎓 I'm a recent MS CS Graduate from the State University of New York at Binghamton
-- 🔭 I’m currently working on <strong>ML Based Security Project</strong>
-- 🌱 I’m currently learning <strong>Docker & Kubernetes </strong>
+- 🏡 I'm working as Software Engineer at Mindex Technologies, Inc.
+- 👨🏻‍🎓 I'm a MS CS Graduate from the State University of New York at Binghamton
+- 🔭 I’m currently working on <strong>Java SpringBoot Projects</strong>
+- 🌱 I’m currently learning <strong>AWS, Apace Kakfa, Docker & Kubernetes </strong>
 - 🔍 I’m looking to collaborate on <strong>Software Development & Maching Learning Projects</strong>
 - 💬 Ask me about <strong>Data Structures, Image Processing & Making Tasty Food! </strong>
 - 😄 Pronouns: He/Him/His
